@@ -1,10 +1,12 @@
 # Brain-Tumor-Detection
 Brain Tumor Detection Using Python
 
+<img src="https://github.com/moeinnm-99/Brain-Tumor-Detection/blob/main/1.PNG" align="center" alt="Brain_Tumor_Detection">
+
+<br><br>
 
 
-
-
+<br><br>
 
 
 <br><br>
