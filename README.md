@@ -1,16 +1,37 @@
+# Coming Soon...
+
+
+
 # Brain-Tumor-Detection
 Brain Tumor Detection Using Python
 
 <img src="https://github.com/moeinnm-99/Brain-Tumor-Detection/blob/main/1.PNG" align="center" alt="Brain_Tumor_Detection">
 
 <br><br>
-
-
-<br><br>
-
+<p>*Tumor Detection Recognition is a computer vision project that aims to detect and recognize Brain Tumor Detection in images.</p>
 
 <br><br>
 
+# Introduction
+<p>The Tumor Detection Recognition project is designed to detect and recognize Brain Tumor in images of brain It utilizes the Keras3 algorithm for brain detection and provides different methods for tumor localization and character recognition.</p>
+
+<br><br>
+
+# Installation
+<ol> 
+<li>Download the Notebook</li>
+<li>Upload Project Folder to Drive</li>
+<li>Upload Notebook to Colab and Run</li>
+<li>Make Sure To Use Keras3</li>
+<li>Make Sure You Have Tensorflow</li>
+</ol>
+
+<br><br>
+
+# Dataset
+<p>The Project Dataset Is In Archive Folder Or You Can Downnload It From Your Kaggle Account.</p>
+
+<br><br>
 
 <p>You Can Contact With Me And Share Your Experiences With Me.</p>
 <li>Email : moeinnouri4983@gmail.com</li>
