@@ -3,7 +3,7 @@
 
 
 # Brain-Tumor-Detection
-Brain Tumor Detection Using Python
+Brain Tumor Detection Using Python And AI
 
 <img src="https://github.com/moeinnm-99/Brain-Tumor-Detection/blob/main/1.PNG" align="center" alt="Brain_Tumor_Detection">
 
