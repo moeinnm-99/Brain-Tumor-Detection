@@ -1,4 +1,4 @@
-# Coming Soon.... (Around 3 Weeks Plz Wait:|)
+# Coming Soon... (Around 3 Weeks Plz Wait:|)
 
 
 
