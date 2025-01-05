@@ -1,4 +1,4 @@
-# Coming Soon ... (Around 1 Month Plz Wait)
+# Coming Soon ... (Around 1 Month p Wait)
 <h1>Please Wait And Follow Me Tnx</h1>
 
 
