@@ -1,4 +1,4 @@
-# Coming Soon ... (Around 1 Month pl Wait)
+# Coming Soon ... (Around 1 Month plz Wait)
 # Please Wait And Follow Me Tnx
 
 
