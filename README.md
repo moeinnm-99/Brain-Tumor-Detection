@@ -24,16 +24,6 @@ Brain Tumor Detection Using Python And AI
 
 <br><br>
 
-# Dataset
-<p>The Project Dataset Is In Archive Folder Or You Can Downnload It From Your Kaggle Account.</p>
-
-<br><br>
-
-<p>You Can Contact With Me And Share Your Experiences With Me.</p>
-<li>Email : moeinnouri4983@gmail.com</li>
-<li>Email2 : moeinnouriprogrammer4983@gmail.com</li>
-<li>Github: Moeinnm-99</li>
-
 
 
 # Brain-Tumor-Detector
