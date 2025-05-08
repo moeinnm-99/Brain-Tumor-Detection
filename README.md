@@ -1,12 +1,3 @@
-# Coming Soon ... (Around 1 Month plz Wait)
-
-
-
-
-# Please Wait And Follow Me Tnx
-
-
-
 # Brain-Tumor-Detection
 Brain Tumor Detection Using Python And AI
 
@@ -82,4 +73,3 @@ Brain Tumor Detection Using Python And AI
 - AI
 - Tensorflow
 - Deep Learning
-a
