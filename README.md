@@ -35,37 +35,7 @@ Brain Tumor Detection Using Python And AI
 <li>Github: Moeinnm-99</li>
 
 
-<br> <br> <br>
-## 📈 GitHub Stats 
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=moeinnm-99)](https://github.com/moeinnm-99)
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moeinnm-99&layout=compact)](https://github.com/moeinnm-99)
-
-<br> <br>
-
-## 🤝 Connect with me:
-
-<br>
-<a href="https://www.linkedin.com/in/moein-nouri-62803731a/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Moeinnm-99 | LinkedIn" width="40px"/></a>
-
-<a href="https://instagram.com/moeinnm_99"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Moeinnm-99 | Instagram" width="40px"/></a>
-
-<br> <br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
-
-<br>
-
-## 🔭 I'm currently working on:
-
-- My old projects
-- Machine Learning Project That I Will Upload 
-- NLP And Opencv Projects (Image processing)
-
-<br>
-
-## 🌱 I'm currently learning:
-<br>
 # Brain-Tumor-Detector
 Building a detection model using a convolutional neural network in Tensorflow & Keras.<br>
 Used a brain MRI images data founded on Kaggle. You can find it [here](https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection).<br>
@@ -180,11 +150,34 @@ Contributes are welcome!
 <br>Thank you!
 
 
+<br> <br> <br>
+## 📈 GitHub Stats 
 
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=moeinnm-99)](https://github.com/moeinnm-99)
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moeinnm-99&layout=compact)](https://github.com/moeinnm-99)
 
+<br> <br>
 
-- Sql
-- Database
-- AI
-- Tensorflow
-- Deep Learning
+## 🤝 Connect with me:
+
+<br>
+<a href="https://www.linkedin.com/in/moein-nouri-62803731a/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Moeinnm-99 | LinkedIn" width="40px"/></a>
+
+<a href="https://instagram.com/moeinnm_99"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Moeinnm-99 | Instagram" width="40px"/></a>
+
+<br> <br>
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
+<br>
+
+## 🔭 I'm currently working on:
+
+- My old projects
+- Machine Learning Project That I Will Upload 
+- NLP And Opencv Projects (Image processing)
+
+<br>
+
+## 🌱 I'm currently learning:
+<br>
